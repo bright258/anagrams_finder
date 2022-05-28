@@ -12,7 +12,7 @@ def find_anagrams(word, anagram):
     else:
         print("False")
     
-    return True    
+    return     
 
 find_anagrams('angel', 'glean');
 
